@@ -3,7 +3,7 @@
         "code": "200",
         "Success": true,
         "body": {
-            "UA": "https://m.n8.vip/?code=anwr",
+            "UA": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15 mobile",
             "version": "1.0.0",
             "name":"Happy fruit card slot"
         }
